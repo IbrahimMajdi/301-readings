@@ -1,3 +1,5 @@
+# JQuery
+
 > JQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. 
 
 ### basic syntax
@@ -44,5 +46,6 @@ of elements.
 > The `.css()` method lets you retrieve and set the values of CSS properties.
 
 > The `on()` method is used to handle all events.
+
 > The `height()` and `width()` methods can be used to determine the
 dimensions of both the browser window and the HTML document.
