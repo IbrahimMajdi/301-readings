@@ -8,6 +8,8 @@ Mustache.render(“Hello, {{name}}”, { name: “Sherlynn” });
 
 > The main idea behind the `flex layout` is to give the container the ability to alter its items’ width/height (and order) to best fill the available space
 
+> When working with flexbox you need to think in terms of two axes — the main axis and the cross axis.
+
 > flex layout have multible proparities for spacing and alligning.
 
 ### flexbox cheetsheat
