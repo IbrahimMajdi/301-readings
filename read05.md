@@ -15,8 +15,12 @@
 
 ### Where to Use Node.js?
 
-   > I/O bound Applications
-   > Data Streaming Applications
-   > Data Intensive Real-time Applications (DIRT)
-   > JSON APIs based Applications
-   > Single Page Applications
+> I/O bound Applications
+
+> Data Streaming Applications
+
+> Data Intensive Real-time Applications (DIRT)
+
+> JSON APIs based Applications
+
+> Single Page Applications
