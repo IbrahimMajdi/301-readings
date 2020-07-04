@@ -14,6 +14,7 @@
    > syntax highlightning, file renaming, packet sniffing and many other applications involving strings (where data need not be textual)
 
     ![](https://i.pinimg.com/originals/16/33/8d/16338ddd8e8fdea52a50e6c6981451f3.png)
+    
    ### CSS Grids
    > CSS Grid Layout is the most powerful layout system available in CSS. It is a 2-dimensional system, meaning it can handle both columns and rows.
    1[](https://i.pinimg.com/originals/c9/37/12/c937129ef603f5ebb6127f8de8f2f962.png)
