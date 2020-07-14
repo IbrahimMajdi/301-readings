@@ -11,3 +11,6 @@
 > The most common being the `GET` method and the `POST` method
 
 > The `GET` method is the method used by the browser to ask the server to send back a given resource
+
+> The `POST` method It's the method the browser uses to talk to the server when asking for a response that takes into account the data provided in the body of the HTTP request.
+
